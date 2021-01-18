@@ -1,4 +1,4 @@
-# Password Generator
+# Day Planner
 TABLE OF CONTENTS
 1. Purpose
 2. Preview
@@ -10,7 +10,7 @@ The goal of this project is to design a day planner that stores hourly informati
 
 ## PREVIEW
 
-https://jrdavis4.github.io/password_generator/
+https://jrdavis4.github.io/day_planner/
 
 ![Preview of website](assets/images/screenshot.PNG)
 
